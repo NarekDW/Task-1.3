@@ -7,9 +7,9 @@ import static java.lang.Math.tan;
  */
 class Function {
 
-    double a;   // a - начало отрезка на котором вычисляется функция
-    double b;   // b - конец отрезка на котором вычисляется функция
-    double h;   // h - шаг дискретизации
+    private double a;   // a - начало отрезка на котором вычисляется функция
+    private double b;   // b - конец отрезка на котором вычисляется функция
+    private double h;   // h - шаг дискретизации
 
     protected Function(double a, double b, double h){
         this.a=a;

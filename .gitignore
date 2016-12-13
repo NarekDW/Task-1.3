@@ -4,6 +4,9 @@ out
 *.iml
 /solution/build/
 /gradle/
+/gradlew
+/gradlew.bat
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/

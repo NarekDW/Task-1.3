@@ -7,7 +7,7 @@ import static java.lang.Math.PI;
  */
 class Main {
     public static void main(String[] args){
-        Function function=new Function(0, PI, 0.01);
+        Function function=new Function(-5, PI, 0.01);
         function.values();
     }
 }
